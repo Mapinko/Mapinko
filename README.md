@@ -37,7 +37,7 @@ Hey, I'm Mari, a 22-year-old Brazilian with a passion for web development and a 
 
 ## Work Experience
 - UI Designer (2019 - present)
-- Frontend Instructor at Alura (December 2022 - present)
+- Frontend Instructor at Alura (December 2022 - January 2024)
 
 ## 📫 How to reach me: 
 - ✉️ Email: mapincosf@gmail.com
